@@ -12,3 +12,4 @@ This paper is about a an Attribute-aware Attentive GCN Model.
 
 [Download paper here](https://ieeexplore.ieee.org/document/9272360)
 
+**Haoyu Tang**, Jihua Zhu, Meng Liu, Member, IEEE, Zan Gao, and Zhiyong Cheng. Frame-wise Cross-modal Matching for Video Moment Retrieval. IEEE Transactions on Multimedia(TMM), 2021. \[CCF B\][Link](https://ieeexplore.ieee.org/abstract/document/9374685)
