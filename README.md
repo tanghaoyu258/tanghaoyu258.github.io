@@ -1,13 +1,3 @@
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-------
 I am currently an assistant Professor in the School of Software, Shandong University. I've received the PhD degree at the School of Software Engineering, Xi'an Jiaotong University, supervised by associate professor [Jihua Zhu](https://gr.xjtu.edu.cn/web/zhujh) and co-mentored by research fellow [Zhiyong Cheng](https://sites.google.com/view/zycheng) in Shangdong Acadamy. I received the B.Eng degree from Xi'an jiaotong University in China. My research interests include information retrieval, multimedia and machine learning.
 
 Research interest:
