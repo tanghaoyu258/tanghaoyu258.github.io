@@ -19,7 +19,7 @@ Work experience
 * Winter 2021: Assistant Professor
   * Shandong University
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -31,9 +31,9 @@ Services
 
 * Invited Reviewer for Information Sciences (INS)
 
-* Invited Reviewer for MM Asia 2021, MM Asia 2022 -->
-
-<!-- Teaching
+* Invited Reviewer for MM Asia 2021, MM Asia 2022 
+<!-- 
+Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
