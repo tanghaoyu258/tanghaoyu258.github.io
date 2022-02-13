@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,42 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-
 Education
 ======
-* Ph.D. in School of Computer Science and Technology, Shandong University, Qingdao, China, 2021
-	* Supervisors: Prof. [Liqiang Nie](https://scholar.google.com/citations?user=yywVMhUAAAAJ&hl=en) and Prof. [Zhiyong Cheng](https://scholar.google.com/citations?hl=en&user=0ffIKdIAAAAJ)
-* M.S. in Department of Electrical and Electronic Engineering, Kansai University, Osaka, Japan, 2015
-	* Supervisor: Prof. [Ebara Hiroyuki](https://gakujo.kansai-u.ac.jp/profile/ja/3b9d26c7eb2cecuf4f1fdf+f7077b.html?#three)
-* B.S. in School of Computer Science and Engineering, Southeast University, Nanjing, China, 2010
-
+* B.S. in Xi'an Jiaotong University, 2012-2016
+* Ph.D in Xi'an Jiaotong University, 2016-2021
 
 Work experience
 ======
-* Apr. 2021 - Sep. 2021 : Visiting Scholar
-  * National University of Singapore, Singapore
-  * Supervisor: Prof. [Mohan S Kankanhalli](https://scholar.google.com/citations?user=6Lx_eowAAAAJ&hl=th)
- 
-* Sep. 2015 - Aug. 2018: Lecturer
-  * Jining University, China
-  
-Research Interest
-======
-* Information Retrieval and Recommendation 
-* Multimedia
-* Privacy Preservation
+* Winter 2021: Assistant Professor
+  * Shandong University
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
- 
-Languages
+
+Teaching
 ======
-English, Chinese, Japanese
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-Awards & Honors
-====
-Scholarship in ShandongUniversity (2018~2020)
 
+Services
+======
+* Invited Reviewer for Transactions on Multimedia (TMM)
+
+* Invited Reviewer for Information Sciences (INS)
+
+* Invited Reviewer for MM Asia 2021, MM Asia 2022
