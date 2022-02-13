@@ -18,15 +18,15 @@ Name2 Name2:
   google_plus : "Name"
 
 Fan Liu:
-  name             : "Fan Liu"
+  name             : "Haoyu Tang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate @Shandong University"
-  location         : "Qingdao, China"
+  bio              : "Assistant Professor in Shandong University."
+  location         : " Jinan & Xi'an, China"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:liufancs@gmail.com"
+      url: "mailto:tanghao258@sdu.edu.cn"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=qjECBscAAAAJ&hl=zh-CN"
+      url: "https://scholar.google.com/citations?user=pA9PNhsAAAAJ"
    
