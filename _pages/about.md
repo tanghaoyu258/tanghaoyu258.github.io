@@ -36,6 +36,8 @@ Services:
 
 * Invited Reviewer for Information Sciences (INS)
 
+* Invited Reviewer for ACM Multimedia 2022
+
 * Invited Reviewer for MM Asia 2021, MM Asia 2022
 
 For more info
