@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Haoyu Tang(唐昊煜)"
+title: "Haoyu Tang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
